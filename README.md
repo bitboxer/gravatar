@@ -4,7 +4,7 @@ This is the gravatar I am using everywhere on the net.
 
 Currently it looks like this:
 
-<img src="https://raw.github.com/bitboxer/gravatar/master/gravatar.png" width="256" height="256"/>
+<img src="https://raw.github.com/bitboxer/gravatar/master/gravatar_borderless.png" width="256" height="256"/>
 
 I used a pixeled version of this since at least 2000 till october 2012.
 The screen resolutions nowadays are higher than back then. Because of
