@@ -15,4 +15,4 @@ The old picture looked like this:
 
 <img src="https://raw.github.com/bitboxer/gravatar/master/old_avatar.png"/> 
 
-This work is under [cc-by-sa 5.0](http://creativecommons.org/licenses/by-sa/4.0/).
+This work is under [cc-by-sa 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
